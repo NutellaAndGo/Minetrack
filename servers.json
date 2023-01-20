@@ -1,17 +1,39 @@
 [
 	{
-		"name": "Hypixel",
-		"ip": "mc.hypixel.net",
+		"name": "Leyon",
+		"ip": "46.4.244.173",
+		"port": "40007",
 		"type": "PC"
 	},
 	{
-		"name": "Mineplex",
-		"ip": "us.mineplex.com",
+		"name": "Stray",
+		"ip": "eu.stray.gg",
 		"type": "PC"
 	},
 	{
-		"name": "CubeCraft",
-		"ip": "play.cubecraft.net",
+		"name": "Arctic",
+		"ip": "na.arcticmc.net",
+		"type": "PC"
+	},
+	{
+		"name": "Legacy",
+		"ip": "play.pvplegacy.net",
+		"type": "PC"
+	},
+	{
+		"name": "EpicMC",
+		"ip": "193.70.81.183",
+		"type": "PC"
+	},
+	{
+		"name": "CritMC",
+		"ip": "172.111.34.34",
+		"type": "PC"
+	},
+	{
+		"name": "Apollo",
+		"ip": "apollouhc.com",
 		"type": "PC"
 	}
+	
 ]
